@@ -24,5 +24,11 @@ Aluno: Ronilson da Cruz Nascimento
 Atividade_13_Ronilson_da_Cruz_Nascimento_Machine Learning II.ipynb
 
 
+#### BASE DE DADOS APLICADA AO PROJETO:
+
+Este trabalho estará utilizando o Repositório de Aprendizado de Máquina da UCI (Cardoso, 2013), que é uma coleção de banco de dados, disponibilizado pela comunidade de aprendizado de máquina para análise de algoritmos de machine learning. O Dataset do UC Irvine Machine Learning Repository, Wholesale Customers Dataset é um conjunto de dados multivariado amplamente utilizado em estudos e aplicações no setor de negócios. Com um total de 440 instâncias, ele se destaca por sua aplicabilidade tanto em classificação quanto em agrupamento (clustering), tornando-se um recurso valioso para análises de segmentação de clientes e modelagem preditiva.  está disponível no link <https://archive.ics.uci.edu/dataset/292/wholesale+customers> ou <https://doi.org/10.24432/C5030X.
+
+
+
 
 
