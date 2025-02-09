@@ -19,13 +19,8 @@ Aluno: Ronilson da Cruz Nascimento
 #### SEGMENTAÇÃO DE CLIENTES COM APRENDIZADO NÃO SUPERVISIONADO: UMA ABORDAGEM UTILIZANDO O WHOLESALE CUSTOMERS DATASET.
 
 # PASSO 1 - Importação das Bibliotecas
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
+
+
 
 
 
