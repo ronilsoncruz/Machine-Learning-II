@@ -1,6 +1,7 @@
 ![Universidade Federal do Maranhão - UFMA. Ronilson da Cruz Nascimento - 10.02.2025.](https://portalpadrao.ufma.br/servicos/imagens/logo-dted-ufma-preto.png/@@images/image.png)
 
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 ## Machine-Learning-II
