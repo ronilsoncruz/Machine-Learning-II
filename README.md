@@ -1,18 +1,11 @@
-## Machine-Learning-II
-
-**Universidade Federal do Maranhão**
-
-**Diretoria de Tecnologias na Educação**
-
-**Especialização em Análise de Dados e Inteligência Artificial**
-
-**Disciplina de Machine Learning II**
-
-**Professor: Dr. Paulo Rogério de Almeida Ribeiro**
-
-**Professor Tutor: Mestrando John Hobby Alves de Aguiar**
-
-**Aluno: Ronilson da Cruz Nascimento**
+## Machine-Learning-II  \
+**Universidade Federal do Maranhão**  \
+**Diretoria de Tecnologias na Educação**  \
+**Especialização em Análise de Dados e Inteligência Artificial**  \
+**Disciplina de Machine Learning II**  \
+**Professor: Dr. Paulo Rogério de Almeida Ribeiro**  \
+**Professor Tutor: Mestrando John Hobby Alves de Aguiar**  \
+**Aluno: Ronilson da Cruz Nascimento**  \
 
 
 #### *Trabalho de conclusão da disciplina de Machine Learning II, compondo atividade 13, da implementação de um código computacional na linguagem Python de Aprendizagem Não-Supervisionada, do curso de especialização em Análise de Dados e Inteligência Artificial.*
