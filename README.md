@@ -1,4 +1,6 @@
-![Aprendizado de Máquina Não-Suepervisionado.]([https://myoctocat.com/assets/images/base-octocat.svg](https://blog.bismart.com/hs-fs/hubfs/Imported_Blog_Media/ClassificationAndClustering/Clustering&clasification-Animales.gif?width=900&name=Clustering&clasification-Animales.gif))
+![Universidade Federal do Maranhão - UFMA. Ronilson da Cruz Nascimento - 10.02.2025.](https://portalpadrao.ufma.br/servicos/imagens/logo-dted-ufma-preto.png/@@images/image.png)
+
+
 
 
 ## Machine-Learning-II
